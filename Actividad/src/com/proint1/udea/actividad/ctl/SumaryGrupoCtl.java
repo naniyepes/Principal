@@ -32,7 +32,7 @@ import com.proint1.udea.administracion.entidades.terceros.Docente;
 
 
 /**
- * Sumario de grupos asignados a un {@link Docente} logueado
+ * Permite crear un Sumario de grupos asignados a un {@link Docente} logueado
  * @author Juan Cardona
  * @since 23/06/2014
  */
